@@ -45,10 +45,3 @@ This project focuses on anomaly detection in cyclone preheaters using machine le
    ```
 2. Open `Cyclone_Preheater.ipynb` and execute the cells sequentially.
 3. Analyze the results and visualizations for anomaly detection.
-
-## Contact
-For any queries or contributions, feel free to reach out!
-
----
-Thank you for exploring this project!
-
